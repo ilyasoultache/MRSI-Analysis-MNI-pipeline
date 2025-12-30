@@ -32,24 +32,27 @@ Our workflow is based on open-source tools:
 - Use the included examples as templates (configs, command snippets, checklists).
 
 ## Recommended structure for your analysis
+
 Tip: Keep your project reproducible by organizing your own analysis folder like this:
-  - project/
-    |_ Subject_001/
-        |_ Spectroscopy_Data/
-            |_ Raw_Data/
-            |_ Converted_Data/
-            |_ Processed_Data/
-                |_ Frequency_and_Phase_Corrected_Data/
-                |_ ECC_Data/
-                |_ Water_Removed_Data/
-        |_ Anatomical_Data/
-            |_ Raw_Data/
-            |_ Converted_Data/
-            |_ Denoised_Data/
-            |_ Brain_Extracted_Data/
-        |_ PVE_Maps/
-        |_ Results/
-    
+
+```text
+project/
+└── Subject_001/
+    ├── Spectroscopy_Data/
+    │   ├── Raw_Data/
+    │   ├── Converted_Data/
+    │   └── Processed_Data/
+    │       ├── Frequency_and_Phase_Corrected_Data/
+    │       ├── ECC_Data/
+    │       └── Water_Removed_Data/
+    ├── Anatomical_Data/
+    │   ├── Raw_Data/
+    │   ├── Converted_Data/
+    │   ├── Denoised_Data/
+    │   └── Brain_Extracted_Data/
+    ├── PVE_Maps/
+    └── Results/
+
 ## Citation
 If you use this workflow in academic work, please cite:
 - TODO: paper / DOI / preprint
