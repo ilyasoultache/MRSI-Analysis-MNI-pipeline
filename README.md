@@ -1,4 +1,4 @@
-# MRSI Analysis Pipeline (MNI)
+# MRSI Analysis Pipeline (MNI-MRSI)
 
 Official Magnetic Resonance Spectroscopic Imaging (MRSI) analysis pipeline guide from the **Brain Tumor Research Group** at the **Montreal Neurological Institute (MNI)**.
 
