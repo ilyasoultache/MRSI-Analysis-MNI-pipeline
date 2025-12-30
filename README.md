@@ -34,7 +34,6 @@ Our workflow is based on open-source tools:
 ## Recommended structure for your analysis
 
 Tip: Keep your project reproducible by organizing your own analysis folder like this:
-
 ```text
 project/
 └── Subject_001/
