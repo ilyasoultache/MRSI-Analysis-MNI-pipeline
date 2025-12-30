@@ -3,7 +3,7 @@
 Official Magnetic Resonance Spectroscopic Imaging (MRSI) analysis pipeline guide from the **Brain Tumor Research Group** at the **Montreal Neurological Institute (MNI)**.
 
 ## Mission
-We aim to **democratize access to multi-voxel MRSI** and support **more standardized clinical integration**.
+We aim to **democratize access to multi-voxel MRSI** and support **its clinical integration**.
 
 ## What this is (and isn’t)
 **This repository provides**: a documented, step-by-step pipeline (recommended tools, parameters, and workflow order) for multi-voxel MRSI analysis.
