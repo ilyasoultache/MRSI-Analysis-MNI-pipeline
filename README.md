@@ -52,6 +52,7 @@ project/
     │   └── Brain_Extracted_Data/
     ├── PVE_Maps/
     └── Results/
+```
 
 ## Citation
 If you use this workflow in academic work, please cite:
