@@ -3,6 +3,7 @@
 Warp brain mask into MRSI (CSI) space.
 Uses fslpy approach to create a dummy image matching CSI space exactly.
 Relies on header-based alignment (applywarp --usesqform).
+
 """
 
 import numpy as np
